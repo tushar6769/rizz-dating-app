@@ -1,0 +1,6 @@
+{
+  "name": "RizzFlow",
+  "description": "An ultra-modern, elite dating texting coach with vision-based screenshot scanning, custom opener crafters, automated bio builders and emergency stalling resuscitation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
